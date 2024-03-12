@@ -1,0 +1,40 @@
+.App {
+    text-align: center;
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.box {
+    max-width: 200px;
+    margin: 50px auto;
+    border-radius: 5px;
+    padding: 20px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+p {
+    font-size: 18px;
+    text-align: center;
+}
+
+button {
+    padding: 10px;
+    margin: 10px;
+    font-size: 18px;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    box-shadow: rgba(0, 0, 0, 0.16) 0px 1px 4px;
+}
+
+button.add {
+    background-color: aqua;
+}
+
+button.sub {
+    background-color: red;
+}
+
+button.reset {
+    background-color: grey;
+}

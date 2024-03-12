@@ -1,0 +1,9 @@
+.logo {
+    height: 30px;
+    width: 30px;
+}
+
+header{
+    font-weight: bold;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
